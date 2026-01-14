@@ -1,0 +1,7 @@
+{
+  "name": "Industrial Production OCR",
+  "description": "A specialized industrial application for capturing production forms, extracting data using Gemini AI, and synchronizing with Supabase.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
